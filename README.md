@@ -74,4 +74,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-Open **`http://localhost:8501`** in your browser to start querying your files!
+
